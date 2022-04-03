@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+ Just boiler plate codes and examples for material UI . Using node version 14 and  "@material-ui/core": "^4.12.3", "@material-ui/icons": "^4.11.2","@mui/icons-material": "^5.5.1",
+ Project created with create-react-app
+
+
+![materialui](https://user-images.githubusercontent.com/70960407/161412504-1d67317e-1c5f-4fb5-90ab-35e17d4e7a3b.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
